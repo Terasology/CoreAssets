@@ -1,0 +1,8 @@
+{
+    "id" : "CoreAssets",
+    "version" : "1.0.0-SNAPSHOT",
+    "displayName" : "Core Assets",
+    "description" : "A collection of textures, sounds, and other raw assets used by Core",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
