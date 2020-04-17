@@ -1,0 +1,14 @@
+{
+  "texture": "CoreAssets:icons",
+  "textureSize": [128, 128],
+  "grid": {
+    "tileSize": [9, 9],
+    "gridDimensions": [14, 3],
+    "gridOffset": [0, 0],
+    "tileNames": [
+      "darkHeartOutline", "whiteHeartOutline", "redHeartOutline", "", "redHeart", "halfRedHeart", "pinkHeart", "halfPinkHeart", "blueHeart", "halfBlueHeart", "greenHeart", "halfGreenHeart", "", "",
+      "bubble", "burstBubble", "", "", "", "", "", "", "", "", "", "", "", "",
+      "blackFoodOutline", "whiteFoodOutline", "redFoodOutline", "", "food", "halfFood", "lightFood", "halfLightFood", "rottenFood", "halfRottenFood", "lightRottenFood", "lightHalfRottenFood", "darkFoodOutline", "greenFoodOutline"
+    ]
+  }
+}
