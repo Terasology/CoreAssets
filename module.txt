@@ -1,6 +1,7 @@
 {
     "id" : "CoreAssets",
     "version" : "1.1.0",
+    "isReleaseManaged" : true,
     "displayName" : "Core Assets",
     "description" : "A collection of textures, sounds, and other raw assets used by Core",
     "dependencies" : [],
