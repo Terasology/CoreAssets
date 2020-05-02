@@ -1,0 +1,14 @@
+{
+  "texture": "CoreAssets:explosives",
+  "textureSize": [128, 128],
+  "grid": {
+    "tileSize": [16, 16],
+    "gridDimensions": [2, 3],
+    "gridOffset": [0, 0],
+    "tileNames": [
+      "fuseLong", "fuseShort",
+      "gunWeak", "gunStrong",
+      "dynamiteStick", "dynamiteBundle"
+    ]
+  }
+}

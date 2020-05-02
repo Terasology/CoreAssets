@@ -1,0 +1,15 @@
+{
+  "texture": "CoreAssets:items",
+  "textureSize": [256, 256],
+  "grid": {
+    "tileSize": [16, 16],
+    "gridDimensions": [2, 4],
+    "gridOffset": [0, 0],
+    "tileNames": [
+      "pickaxeStone", "pickaxeMetal",
+      "axeStone", "axeMetal",
+      "shovelStone", "shovelMetal",
+      "gooeysFist", ""
+    ]
+  }
+}
