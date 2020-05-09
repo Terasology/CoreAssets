@@ -1,0 +1,10 @@
+{
+    "parent": "engine:physicalDamage",
+    "blockDamageModifier": {
+        "materialDamageMultiplier": {
+            "soil": 10,
+            "soil2": 10,
+            "soil3": 10
+        }
+    }
+}
