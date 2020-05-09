@@ -1,0 +1,10 @@
+{
+    "displayName": "Snowball",
+    "basedOn": "CoreAssets:soil",
+    "tile": "CoreAssets:Snow",
+    //no snowball prefab I could find; WIP?
+    "entity": {
+        "prefab": "Snowball"
+    },
+    "sounds": "CoreAssets:snow"
+}

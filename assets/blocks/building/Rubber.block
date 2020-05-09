@@ -1,0 +1,10 @@
+/**
+ * Rubber is bouncy
+ */
+{
+    "basedOn": "CoreAssets:rock",
+    "displayName": "Rubber",
+    "restitution": 0.9,
+    "mass": 20,
+    "tile": "CoreAssets:Rubber"
+}

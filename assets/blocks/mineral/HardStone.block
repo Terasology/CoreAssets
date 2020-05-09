@@ -1,0 +1,7 @@
+/**
+ * Harder than normal stone
+ */
+{
+    "basedOn": "CoreAssets:rock2",
+    "tile": "CoreAssets:HardStone"
+}

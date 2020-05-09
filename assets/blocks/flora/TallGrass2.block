@@ -1,0 +1,10 @@
+/**
+ * Tall grass variety 2 (higher number = taller)
+ */
+{
+    "basedOn": "CoreAssets:plant",
+    "tile": "CoreAssets:TallGrass2",
+    "colorSource": "foliage_lut",
+    "colorOffset": [0.7, 0.7, 0.7, 1.0],
+    "waving": true
+}
