@@ -1,0 +1,7 @@
+/**
+ * A red mushroom. It isn't magic yet
+ */
+{
+    "basedOn": "CoreAssets:plant",
+    "tile": "CoreAssets:RedShroom"
+}

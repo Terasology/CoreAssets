@@ -1,0 +1,7 @@
+/**
+ * A mineral block that would drop Iron
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "tile": "CoreAssets:IronOre"
+}

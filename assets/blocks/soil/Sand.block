@@ -1,0 +1,8 @@
+/**
+ * Sand is fairly sandy.
+ */
+{
+    "basedOn": "CoreAssets:soil",
+    "sounds": "CoreAssets:sand",
+    "tile": "CoreAssets:Sand"
+}

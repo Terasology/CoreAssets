@@ -1,8 +1,10 @@
 {
     "id" : "CoreAssets",
-    "version" : "1.0.1-SNAPSHOT",
+    "version" : "2.0.0",
+    "isReleaseManaged" : true,
     "displayName" : "Core Assets",
-    "description" : "A collection of textures, sounds, and other raw assets used by Core",
+    "description" : "An asset module providing prefabs, block definitions and a collection of textures, sounds, and other basic assets",
     "dependencies" : [],
-    "serverSideOnly" : false
+    "serverSideOnly" : false,
+    "isAsset": true
 }

@@ -1,0 +1,8 @@
+/**
+ * A totally beautiful red flower that might get some actual plant stats later
+ */
+{
+    "basedOn": "CoreAssets:plant",
+    "waving": true,
+    "tile": "CoreAssets:RedFlower"
+}

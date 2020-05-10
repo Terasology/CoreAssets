@@ -1,0 +1,13 @@
+/**
+ * Snow is a Dirt block covered by Snow, just like grass.
+ * Unlike Grass, it might be possible to have a SnowBlock as well
+ */
+{
+    "basedOn": "CoreAssets:soil",
+    "tile":"CoreAssets:Snow",
+    "tiles": {
+        "sides": "CoreAssets:SnowSide",
+        "bottom": "CoreAssets:Dirt"
+    },
+    "sounds": "CoreAssets:snow"
+}

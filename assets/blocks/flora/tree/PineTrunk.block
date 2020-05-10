@@ -1,0 +1,8 @@
+{
+    "basedOn": "CoreAssets:wood",
+    "displayName": "Pine Log",
+    "tile": "CoreAssets:PineBark",
+    "tiles": {
+        "topBottom": "CoreAssets:PineTrunk"
+    }
+}

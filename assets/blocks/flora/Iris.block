@@ -1,0 +1,10 @@
+/**
+ * A flower with an actual name, wee!
+ * @author (art) eleazzaar
+ */
+{
+    "author": "eleazzaar",
+    "basedOn": "CoreAssets:plant",
+    "waving": true,
+    "tile": "CoreAssets:Iris"
+}

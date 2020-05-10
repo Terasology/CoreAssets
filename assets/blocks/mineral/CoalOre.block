@@ -1,0 +1,7 @@
+/**
+ * A mineral block that would drop Coal
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "tile": "CoreAssets:CoalOre"
+}

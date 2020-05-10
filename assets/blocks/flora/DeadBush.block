@@ -1,0 +1,9 @@
+/**
+ * A dead bush. It has seen better days.
+ * @author (art) eleazzaar
+ */
+{
+    "author": "eleazzaar",
+    "basedOn": "CoreAssets:plant",
+    "tile": "CoreAssets:DeadBush"
+}

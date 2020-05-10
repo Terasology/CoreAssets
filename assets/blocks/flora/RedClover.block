@@ -1,0 +1,10 @@
+/**
+ * Maybe you can find a four leaf clover among these?
+ * @author (art) eleazzaar
+ */
+{
+    "author": "eleazzaar",
+    "basedOn": "CoreAssets:plant",
+    "waving": true,
+    "tile": "CoreAssets:RedClover"
+}

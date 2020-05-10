@@ -1,0 +1,10 @@
+/**
+ * Glass is all see-throughey and stuff
+ */
+{
+    "translucent": true,
+    "shadowCasting": false,
+    "hardness": 1,
+    "mass": 15,
+    "tile": "CoreAssets:Glass"
+}

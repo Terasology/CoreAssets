@@ -1,0 +1,9 @@
+/**
+ * Lavender. Smells good!
+ * @author (art) eleazzaar
+ */
+{
+    "author": "eleazzaar",
+    "basedOn": "CoreAssets:plant",
+    "tile": "CoreAssets:Lavender"
+}

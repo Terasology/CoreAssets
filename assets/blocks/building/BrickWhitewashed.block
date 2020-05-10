@@ -1,0 +1,8 @@
+/**
+ * Brick is Brick
+ */
+{
+    "basedOn": "CoreAssets:rock",
+    "displayName": "BrickWhitewashed",
+    "tile": "CoreAssets:BrickWhitewashed"
+}

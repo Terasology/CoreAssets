@@ -1,0 +1,10 @@
+/**
+ * A flower that can emit a glow (unbloomed version)
+ * @author (art) eleazzaar
+ */
+{
+    "author": "eleazzaar",
+    "basedOn": "CoreAssets:plant",
+    "waving": true,
+    "tile": "CoreAssets:Glowbell"
+}
