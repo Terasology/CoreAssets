@@ -5,6 +5,6 @@
     },
     "Item": {
         "icon": "CoreAssets:items#axeStone",
-        "damageType": "CoreItems:axeDamage"
+        "damageType": "CoreAssets:axeDamage"
     }
 }

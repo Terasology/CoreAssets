@@ -18,6 +18,6 @@
     "tint": [0.3, 0.2, 0.2],
     "tile": "CoreAssets:Lava",
     "entity": {
-        "prefab": "CoreBlocks:lava"
+        "prefab": "CoreAssets:lava"
     }
 }

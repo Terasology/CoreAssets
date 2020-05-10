@@ -19,7 +19,7 @@
         "directPickup": true
     },
     "entity": {
-        "prefab": "CoreBlocks:Torch"
+        "prefab": "CoreAssets:Torch"
     },
     "mass": 10
 }

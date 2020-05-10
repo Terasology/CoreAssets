@@ -5,6 +5,6 @@
     },
     "Item": {
         "icon": "CoreAssets:items#pickaxeMetal",
-        "damageType": "CoreItems:pickaxeTier2Damage"
+        "damageType": "CoreAssets:pickaxeTier2Damage"
     }
 }

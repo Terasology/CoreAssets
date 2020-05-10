@@ -2,6 +2,6 @@
  * Mud is wet dirt.
  */
 {
-    "basedOn": "CoreBlocks:Dirt",
+    "basedOn": "CoreAssets:Dirt",
     "tile": "CoreAssets:Mud"
 }

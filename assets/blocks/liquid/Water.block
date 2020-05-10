@@ -14,6 +14,6 @@
     "tint": [0.1, 0.2, 0.2],
     "tile": "CoreAssets:Water",
     "entity": {
-        "prefab": "CoreBlocks:water"
+        "prefab": "CoreAssets:water"
     }
 }

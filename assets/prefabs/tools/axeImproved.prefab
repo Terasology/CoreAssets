@@ -5,6 +5,6 @@
     },
     "Item": {
         "icon": "CoreAssets:items#axeMetal",
-        "damageType": "CoreItems:axeTier2Damage"
+        "damageType": "CoreAssets:axeTier2Damage"
     }
 }
