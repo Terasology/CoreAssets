@@ -1,0 +1,5 @@
+{
+    "basedOn": "CoreAssets:leaf",
+    "tile": "CoreAssets:LightGreenLeaf",
+    "colorOffset": [0.7, 0.7, 0.7, 1.0]
+}
