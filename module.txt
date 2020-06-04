@@ -1,6 +1,6 @@
 {
     "id" : "CoreAssets",
-    "version" : "2.0.2",
+    "version" : "2.1.0",
     "isReleaseManaged" : true,
     "displayName" : "Core Assets",
     "description" : "An asset module providing prefabs, block definitions and a collection of textures, sounds, and other basic assets",

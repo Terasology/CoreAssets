@@ -4,6 +4,6 @@
  */
 {
     "basedOn": "CoreAssets:leaf",
-    "tile": "CoreAssets:GreenLeaf",
+    "tile": "CoreAssets:DarkGreenLeaf",
     "colorOffset": [0.7, 0.7, 0.7, 1.0]
 }
