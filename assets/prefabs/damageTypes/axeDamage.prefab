@@ -2,7 +2,7 @@
     "parent": "engine:physicalDamage",
     "blockDamageModifier": {
         "materialDamageMultiplier": {
-            "wood": 2
+            "wood": 3
         }
     }
 }

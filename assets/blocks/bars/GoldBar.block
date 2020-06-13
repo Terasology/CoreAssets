@@ -1,7 +1,7 @@
 {
     "categories": ["mineral"],
-    "hardness": 18,
-    "mass": 100,
+    "hardness": 22,
+    "mass": 150,
     "sounds": "CoreAssets:stone",
     "tile": "CoreAssets:GoldBar"
 }

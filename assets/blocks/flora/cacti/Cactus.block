@@ -10,5 +10,7 @@
         "top": "CoreAssets:CactusTop",
         "bottom": "CoreAssets:CactusBottom"
     },
+    "hardness": 6,
+    "mass": 40,
     "translucent": true
 }
