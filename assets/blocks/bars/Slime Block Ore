@@ -1,0 +1,7 @@
+{
+    "categories": ["mineral"],
+    "hardness": 100,
+    "mass": 150,
+    "sounds": "CoreAssets:stone",
+    "tile": "CoreAssets:SlimeOre"
+}
