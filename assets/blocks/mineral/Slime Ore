@@ -1,0 +1,4 @@
+{
+    "basedOn": "CoreAssets: mineral",
+    "tile": "CoreAssets: SlimeOre"
+}
