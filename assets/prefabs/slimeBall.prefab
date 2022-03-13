@@ -4,6 +4,6 @@
         "name": "SlimeBall"
     },
     "Item": {
-        "icon": "CoreAssets:items#slimeBall",
+        "icon": "CoreAssets:items#slimeBall"
     }
 }
